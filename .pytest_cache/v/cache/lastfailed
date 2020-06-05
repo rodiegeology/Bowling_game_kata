@@ -1,0 +1,7 @@
+{
+  "test_BowlingGame.py::test_roll": true,
+  "test_BowlingGame.py::test_roll[pins0-list_rows_test0]": true,
+  "test_BowlingGame.py::test_roll[pins1-list_rows_test1]": true,
+  "test_BowlingGame.py::test_roll[pins2-list_rows_test2]": true,
+  "test_BowlingGame.py::test_roll[pins3-list_rows_test3]": true
+}
